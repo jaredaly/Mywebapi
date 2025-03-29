@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "/home/jaredaly/cspractice/3netjsprac/Mywebapi/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/home/jaredaly/cspractice/3netjsprac/Mywebapi/wwwroot/script.js",
+      "PackagePath": "staticwebassets/script.js"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Mywebapi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Mywebapi.props",
+      "PackagePath": "build\\Mywebapi.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Mywebapi.props",
+      "PackagePath": "buildMultiTargeting\\Mywebapi.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Mywebapi.props",
+      "PackagePath": "buildTransitive\\Mywebapi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

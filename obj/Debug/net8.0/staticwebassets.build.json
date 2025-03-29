@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "TgKnDMyHbJIZtjUqWq7uUuxlcViQfixN3X/d1a8FpIM=",
+  "Source": "Mywebapi",
+  "BasePath": "_content/Mywebapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Mywebapi/wwwroot",
+      "Source": "Mywebapi",
+      "ContentRoot": "/home/jaredaly/cspractice/3netjsprac/Mywebapi/wwwroot/",
+      "BasePath": "_content/Mywebapi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/jaredaly/cspractice/3netjsprac/Mywebapi/wwwroot/index.html",
+      "SourceId": "Mywebapi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/jaredaly/cspractice/3netjsprac/Mywebapi/wwwroot/",
+      "BasePath": "_content/Mywebapi",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/home/jaredaly/cspractice/3netjsprac/Mywebapi/wwwroot/script.js",
+      "SourceId": "Mywebapi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/jaredaly/cspractice/3netjsprac/Mywebapi/wwwroot/",
+      "BasePath": "_content/Mywebapi",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/script.js"
+    }
+  ]
+}
