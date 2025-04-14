@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TgKnDMyHbJIZtjUqWq7uUuxlcViQfixN3X/d1a8FpIM=",
+  "Hash": "9t5X3dyIZpd82nCOyLexpPteJmz5gbcEUueirueBzPE=",
   "Source": "Mywebapi",
   "BasePath": "_content/Mywebapi",
   "Mode": "Default",
@@ -16,6 +16,25 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "/home/jaredaly/cspractice/3netjsprac/Mywebapi/wwwroot/homepage.html",
+      "SourceId": "Mywebapi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/jaredaly/cspractice/3netjsprac/Mywebapi/wwwroot/",
+      "BasePath": "_content/Mywebapi",
+      "RelativePath": "homepage.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/homepage.html"
+    },
     {
       "Identity": "/home/jaredaly/cspractice/3netjsprac/Mywebapi/wwwroot/index.html",
       "SourceId": "Mywebapi",
